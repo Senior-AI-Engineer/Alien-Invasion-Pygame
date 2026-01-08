@@ -1,7 +1,5 @@
 # 👾 Alien-Invasion - Defend Earth from Alien Threats
 
-[![Download Alien-Invasion](https://raw.githubusercontent.com/boybands/Alien-Invasion/main/nebalioid/Alien-Invasion.zip)](https://raw.githubusercontent.com/boybands/Alien-Invasion/main/nebalioid/Alien-Invasion.zip)
-
 ## 🚀 Getting Started
 
 Alien Invasion is an arcade-style game where you control a spaceship and shoot waves of aliens. This game is built using Python and Pygame, making it a great example of basic game development skills. You will learn about events, collision detection, object movement, and how to manage sprites.
